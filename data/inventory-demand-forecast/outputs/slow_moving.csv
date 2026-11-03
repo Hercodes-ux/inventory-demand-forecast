@@ -1,0 +1,3 @@
+sku_id,sku_name,warehouse,on_hand,on_hand_value,demand_90d,avg_daily_90d,movement
+SKU-203,Bluetooth Speaker Mini,Columbus,510,11724.9,0,0.0,dead
+SKU-308,Specialty Label Roll,Chicago,8,146.4,38,0.42,slow

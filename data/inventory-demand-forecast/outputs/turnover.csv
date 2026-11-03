@@ -1,0 +1,21 @@
+sku_id,sku_name,warehouse,cogs,avg_inventory_value,turnover
+SKU-102,Stainless Steel Water Bottle 750ml,Cleveland,284929.92,6289.8,45.3
+SKU-301,Ballpoint Pen Box (24),Chicago,98331.25,2190.22,44.9
+SKU-202,USB-C Charging Cable 6ft,Columbus,239440.32,5334.03,44.89
+SKU-307,Packing Tape 6-Pack,Chicago,103504.4,2313.38,44.74
+SKU-101,Ceramic Mug 12 oz,Cleveland,129421.0,2972.11,43.55
+SKU-205,Resistance Band Set,Columbus,130014.69,2987.98,43.51
+SKU-305,Cardboard Mailer Box S,Chicago,98572.8,2265.93,43.5
+SKU-302,A4 Notebook Pack (3),Chicago,131928.0,3070.03,42.97
+SKU-306,Bubble Wrap Roll,Chicago,114799.2,2719.61,42.21
+SKU-303,Desk Organizer Tray,Chicago,68062.5,1617.23,42.09
+SKU-204,Laptop Stand Adjustable,Columbus,166517.41,3966.24,41.98
+SKU-105,Electric Kettle 1.7L,Cleveland,157499.73,3766.61,41.81
+SKU-103,Cotton Bath Towel Set,Cleveland,208608.0,5062.82,41.2
+SKU-304,Whiteboard Marker Set,Chicago,32732.59,795.43,41.15
+SKU-106,Yoga Mat,Cleveland,218730.58,5477.92,39.93
+SKU-104,LED Desk Lamp,Cleveland,217750.0,5584.21,38.99
+SKU-206,Handheld Vacuum,Columbus,145530.0,4065.83,35.79
+SKU-203,Bluetooth Speaker Mini,Columbus,185437.34,5255.45,35.28
+SKU-201,Wireless Mouse,Columbus,360421.93,10996.57,32.78
+SKU-308,Specialty Label Roll,Chicago,2379.0,102.03,23.32

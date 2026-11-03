@@ -1,0 +1,21 @@
+sku_id,sku_name,warehouse,stockout_days
+SKU-203,Bluetooth Speaker Mini,Columbus,22
+SKU-201,Wireless Mouse,Columbus,20
+SKU-106,Yoga Mat,Cleveland,14
+SKU-105,Electric Kettle 1.7L,Cleveland,9
+SKU-308,Specialty Label Roll,Chicago,2
+SKU-302,A4 Notebook Pack (3),Chicago,1
+SKU-303,Desk Organizer Tray,Chicago,1
+SKU-307,Packing Tape 6-Pack,Chicago,1
+SKU-101,Ceramic Mug 12 oz,Cleveland,0
+SKU-102,Stainless Steel Water Bottle 750ml,Cleveland,0
+SKU-103,Cotton Bath Towel Set,Cleveland,0
+SKU-104,LED Desk Lamp,Cleveland,0
+SKU-202,USB-C Charging Cable 6ft,Columbus,0
+SKU-204,Laptop Stand Adjustable,Columbus,0
+SKU-205,Resistance Band Set,Columbus,0
+SKU-206,Handheld Vacuum,Columbus,0
+SKU-301,Ballpoint Pen Box (24),Chicago,0
+SKU-304,Whiteboard Marker Set,Chicago,0
+SKU-305,Cardboard Mailer Box S,Chicago,0
+SKU-306,Bubble Wrap Roll,Chicago,0

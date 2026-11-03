@@ -1,0 +1,21 @@
+sku_id,sku_name,category,warehouse,unit_cost,lead_time_days,reorder_point,order_up_to_level,starting_on_hand
+SKU-101,Ceramic Mug 12 oz,Home Goods,Cleveland,8.5,7,366,877,950
+SKU-102,Stainless Steel Water Bottle 750ml,Home Goods,Cleveland,14.99,5,326,990,1125
+SKU-103,Cotton Bath Towel Set,Home Goods,Cleveland,24.0,10,298,572,550
+SKU-104,LED Desk Lamp,Home Goods,Cleveland,32.5,14,322,514,450
+SKU-105,Electric Kettle 1.7L,Small Appliances,Cleveland,27.99,7,138,331,375
+SKU-106,Yoga Mat,Sporting Goods,Cleveland,19.99,10,387,743,650
+SKU-201,Wireless Mouse,Electronics Accessories,Columbus,16.49,21,1681,2241,550
+SKU-202,USB-C Charging Cable 6ft,Electronics Accessories,Columbus,9.99,5,411,1248,1550
+SKU-203,Bluetooth Speaker Mini,Electronics Accessories,Columbus,22.99,14,405,648,750
+SKU-204,Laptop Stand Adjustable,Electronics Accessories,Columbus,34.99,10,163,313,300
+SKU-205,Resistance Band Set,Sporting Goods,Columbus,15.99,7,195,468,500
+SKU-206,Handheld Vacuum,Small Appliances,Columbus,42.0,21,250,333,225
+SKU-301,Ballpoint Pen Box (24),Office Supplies,Chicago,6.25,3,162,733,1200
+SKU-302,A4 Notebook Pack (3),Office Supplies,Chicago,11.5,5,197,598,850
+SKU-303,Desk Organizer Tray,Office Supplies,Chicago,13.75,7,119,285,400
+SKU-304,Whiteboard Marker Set,Office Supplies,Chicago,8.99,10,125,240,275
+SKU-305,Cardboard Mailer Box S,Packaging,Chicago,4.8,5,352,1069,1450
+SKU-306,Bubble Wrap Roll,Packaging,Chicago,12.4,7,222,533,700
+SKU-307,Packing Tape 6-Pack,Packaging,Chicago,7.6,3,140,635,1000
+SKU-308,Specialty Label Roll,Packaging,Chicago,18.3,14,10,11,9
